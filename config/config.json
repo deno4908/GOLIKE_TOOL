@@ -1,0 +1,21 @@
+{
+    "data": {
+        "Auth": "",
+        "MXH": {
+            "TikTok": {},
+            "INSTAGRAM": {
+                "auth": {
+                    }
+            },
+            "THREADS": {
+                "auth": {
+                    }
+            },
+            "LINKEDIN": {
+                "auth": {}
+            }
+        },
+        "copyright": "DENO9099",
+        "VERSION": "v1.0.0"
+    }
+}
