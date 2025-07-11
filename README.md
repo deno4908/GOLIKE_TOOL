@@ -28,6 +28,8 @@ TOOL Auto Làm nhiệm vụ golike với requests và ADB
 **Ubuntu - amd64/x86**
 
 - Cập nhật hệ thống : ```sudo apt update && sudo apt upgrade -y```
+- Cài Git : ```sudo apt install git```
+- clone TOOL : ```git clone : https://github.com/deno4908/GOLIKE_TOOL```
 - Cài Python : ```sudo apt install python3 python3-pip -y```
 - Cài ADB :  ```sudo apt install android-tools-adb ```
 - Cài packages : ```pip install -r requirements.txt --break-system-packages --force-reinstall --ignore-installed```
@@ -40,6 +42,8 @@ TOOL Auto Làm nhiệm vụ golike với requests và ADB
 - cài Ubuntu :  ```proot-distro install ubuntu```
 - Login ubuntu local : ```proot-distro login ubuntu```
 - Cập nhật hệ thống : ```apt update && apt upgrade -y```
+- Cài Git : ```apt install git```
+- clone TOOL : ```git clone : https://github.com/deno4908/GOLIKE_TOOL```
 - Cài Python : ```apt install python3 python3-pip -y```
 - Cài ADB :  ```apt install android-tools-adb ```
 - Cài packages : ```pip install -r requirements.txt --break-system-packages --force-reinstall --ignore-installed```
