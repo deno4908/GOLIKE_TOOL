@@ -1,0 +1,56 @@
+
+# TOOL Auto Golike
+
+TOOL Auto Làm nhiệm vụ golike với requests và ADB
+
+
+![Logo](https://i.postimg.cc/8Ppstqv5/download.jpg)
+
+
+## Ngôn Ngữ Lập Trình 
+
+**TOOL:** Python
+
+
+## 🚀 Hướng Dẫn Chạy TOOL
+**Windows**
+
+- Cài packages :  ```pip install -r requirements.txt```
+- Run TOOL :  ```python main.py```
+
+**Ubuntu - amd Dẫn Chạy TOOL
+**Windows**
+
+- Cài packages :  ```pip install -r requirements.txt```
+- Run TOOL :  ```python main.py```
+
+**Ubuntu - amd64/x86**
+
+- Cập nhật hệ thống : ```sudo apt update && sudo apt upgrade -y```
+- Cài Python : ```sudo apt install python3 python3-pip -y```
+- Cài packages : ```pip install -r requirements.txt --break-system-packages --force-reinstall --ignore-installed```
+- Run TOOL :  ```python3 main.py```
+
+**proot-distro(termux)**
+- Cập nhật hệ thống pkg :  ```pkg update && pkg upgrade```
+- Cho phép truy cập file trong máy : ```termux-setup-storage```
+- cài proot-distro :  ```pkg install proot-distro```
+- cài Ubuntu :  ```proot-distro install ubuntu```
+- Login ubuntu local : ```proot-distro login ubuntu```
+- Cập nhật hệ thống : ```sudo apt update && sudo apt upgrade -y```
+- Cài Python : ```sudo apt install python3 python3-pip -y```
+- Cài ADB :  ```sudo apt install android-tools-adb ```
+- Cài packages : ```pip install -r requirements.txt --break-system-packages --force-reinstall --ignore-installed```
+- Run TOOL :  ```python3 main.py```
+
+**ADB(wireless)**
+- pair(ghép đôi) : ```adb pair {IP}:{PORT}``` sau đó nhập mã ghép đôi là được
+- connect(kết nối) : ```adb connect {IP}:{PORT}```
+
+## TOOL
+![GIAO DIỆN](https://i.postimg.cc/Dz2CZf4h/image.png)
+
+## Authors
+
+- [@Deno9099](https://github.com/deno4908)
+
