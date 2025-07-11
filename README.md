@@ -19,12 +19,6 @@ TOOL Auto Làm nhiệm vụ golike với requests và ADB
 - Cài packages :  ```pip install -r requirements.txt```
 - Run TOOL :  ```python main.py```
 
-**Ubuntu - amd Dẫn Chạy TOOL
-**Windows**
-
-- Cài packages :  ```pip install -r requirements.txt```
-- Run TOOL :  ```python main.py```
-
 **Ubuntu - amd64/x86**
 
 - Cập nhật hệ thống : ```sudo apt update && sudo apt upgrade -y```
