@@ -4,12 +4,10 @@
         "MXH": {
             "TikTok": {},
             "INSTAGRAM": {
-                "auth": {
-                    }
+                "auth": {}
             },
             "THREADS": {
-                "auth": {
-                    }
+                "auth": {}
             },
             "LINKEDIN": {
                 "auth": {}
