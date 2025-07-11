@@ -39,9 +39,9 @@ TOOL Auto Làm nhiệm vụ golike với requests và ADB
 - cài proot-distro :  ```pkg install proot-distro```
 - cài Ubuntu :  ```proot-distro install ubuntu```
 - Login ubuntu local : ```proot-distro login ubuntu```
-- Cập nhật hệ thống : ```sudo apt update && sudo apt upgrade -y```
-- Cài Python : ```sudo apt install python3 python3-pip -y```
-- Cài ADB :  ```sudo apt install android-tools-adb ```
+- Cập nhật hệ thống : ```apt update && apt upgrade -y```
+- Cài Python : ```apt install python3 python3-pip -y```
+- Cài ADB :  ```apt install android-tools-adb ```
 - Cài packages : ```pip install -r requirements.txt --break-system-packages --force-reinstall --ignore-installed```
 - Run TOOL :  ```python3 main.py```
 
