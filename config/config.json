@@ -1,3 +1,4 @@
+#config của bạn
 {
     "data": {
         "Auth": "",
@@ -17,6 +18,6 @@
             }
         },
         "copyright": "DENO9099",
-        "VERSION": "v1.0.2"
+        "VERSION": "v1.0.3"
     }
 }
