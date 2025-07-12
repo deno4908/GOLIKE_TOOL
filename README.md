@@ -14,32 +14,18 @@ TOOL Auto Làm nhiệm vụ golike với requests và ADB
 
 ## 🚀 Hướng Dẫn Chạy TOOL
 **Windows**
-<<<<<<< HEAD
-- cài ADB (nếu dùng) : 
-=======
 
->>>>>>> ed6a0a0d6489047fa6de8fa85c5103f089bb1e70
-- Cài packages :  ```pip install -r requirements.txt```
-- Run TOOL :  ```python main.py```
-
-**Ubuntu - amd Dẫn Chạy TOOL
-**Windows**
-<<<<<<< HEAD
-- Cài ADB(nếu dùng) : [ADB](https://developer.android.com/tools/releases/platform-tools)
-=======
-
->>>>>>> ed6a0a0d6489047fa6de8fa85c5103f089bb1e70
+- Cài ADB : [ADB](https://developer.android.com/tools/releases/platform-tools)
 - Cài packages :  ```pip install -r requirements.txt```
 - Run TOOL :  ```python main.py```
 
 **Ubuntu - amd64/x86**
 
 - Cập nhật hệ thống : ```sudo apt update && sudo apt upgrade -y```
+- Cài Git : ```sudo apt install git```
+- clone TOOL : ```git clone https://github.com/deno4908/GOLIKE_TOOL```
 - Cài Python : ```sudo apt install python3 python3-pip -y```
-<<<<<<< HEAD
 - Cài ADB :  ```sudo apt install android-tools-adb ```
-=======
->>>>>>> ed6a0a0d6489047fa6de8fa85c5103f089bb1e70
 - Cài packages : ```pip install -r requirements.txt --break-system-packages --force-reinstall --ignore-installed```
 - Run TOOL :  ```python3 main.py```
 
@@ -49,9 +35,11 @@ TOOL Auto Làm nhiệm vụ golike với requests và ADB
 - cài proot-distro :  ```pkg install proot-distro```
 - cài Ubuntu :  ```proot-distro install ubuntu```
 - Login ubuntu local : ```proot-distro login ubuntu```
-- Cập nhật hệ thống : ```sudo apt update && sudo apt upgrade -y```
-- Cài Python : ```sudo apt install python3 python3-pip -y```
-- Cài ADB :  ```sudo apt install android-tools-adb ```
+- Cập nhật hệ thống : ```apt update && apt upgrade -y```
+- Cài Git : ```apt install git```
+- clone TOOL : ```git clone https://github.com/deno4908/GOLIKE_TOOL```
+- Cài Python : ```apt install python3 python3-pip -y```
+- Cài ADB :  ```apt install android-tools-adb ```
 - Cài packages : ```pip install -r requirements.txt --break-system-packages --force-reinstall --ignore-installed```
 - Run TOOL :  ```python3 main.py```
 
