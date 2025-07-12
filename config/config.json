@@ -11,9 +11,12 @@
             },
             "LINKEDIN": {
                 "auth": {}
+            },
+            "PINTEREST": {
+                "auth": {}
             }
         },
         "copyright": "DENO9099",
-        "VERSION": "v1.0.0"
+        "VERSION": "v1.0.1"
     }
 }
