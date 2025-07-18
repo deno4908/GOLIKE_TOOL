@@ -3,3 +3,4 @@ fake_useragent==1.5.1
 pure_python_adb==0.3.0.dev0
 Requests==2.32.4
 dnspython==2.7.0
+tqdm==4.67.1
