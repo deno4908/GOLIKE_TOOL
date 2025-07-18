@@ -13,7 +13,7 @@
             },
             "LINKEDIN": {
                 "auth": {
-                    "12385": "klasdlkha"
+                    
                 }
             },
             "PINTEREST": {
@@ -22,6 +22,6 @@
             }
         },
         "copyright": "DENO9099",
-        "VERSION": "v1.0.9"
+        "VERSION": "v1.0.10"
     }
 }
