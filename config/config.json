@@ -1,27 +1,22 @@
 {
     "data": {
-        "Auth": "",
+        "Auth": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9nYXRld2F5LmdvbGlrZS5uZXRcL2FwaVwvbG9naW4iLCJpYXQiOjE3NTExNjEyMDgsImV4cCI6MTc4MjY5NzIwOCwibmJmIjoxNzUxMTYxMjA4LCJqdGkiOiJVZlc4Z1BYZWJBczBYQ05aIiwic3ViIjoyMTYyNTU0LCJwcnYiOiJiOTEyNzk5NzhmMTFhYTdiYzU2NzA0ODdmZmYwMWUyMjgyNTNmZTQ4In0.WeAIyO2XsfPY6imPvrLy6a-iPWi_H2_qQ4NW7yZ7Hi8",
         "MXH": {
             "TikTok": {},
             "INSTAGRAM": {
                 "auth": {}
             },
             "THREADS": {
-                "auth": {
-                  
-                }
+                "auth": {}
             },
             "LINKEDIN": {
-                "auth": {
-                    
-                }
+                "auth": {}
             },
             "PINTEREST": {
-                "auth": {
-                }
+                "auth": {}
             }
         },
         "copyright": "DENO9099",
-        "VERSION": "v1.0.10"
+        "VERSION": "v1.0.12"
     }
 }
