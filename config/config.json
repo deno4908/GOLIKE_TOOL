@@ -4,8 +4,7 @@
         "MXH": {
             "TikTok": {},
             "INSTAGRAM": {
-                "auth": {
-                }
+                "auth": {}
             },
             "THREADS": {
                 "auth": {}
@@ -18,6 +17,6 @@
             }
         },
         "copyright": "DENO9099",
-        "VERSION": "v1.0.21"
+        "VERSION": "v1.0.22"
     }
 }
